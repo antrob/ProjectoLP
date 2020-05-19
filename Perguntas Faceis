@@ -1,0 +1,202 @@
+respostas.add("CO2");
+respostas.add("H20");
+respostas.add("O2");
+respostas.add("O3");
+aux = new Pergunta("Qual é a fórmula da água?",respostas,respostas.get(1));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Alentejo");
+respostas.add("Ribatejo");
+respostas.add("Algarve");
+respostas.add("Açores");
+aux = new Pergunta("Fala-se em Cuba e pensamos no país, mas é também o nome de uma localidade:",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("CPLP");
+respostas.add("OPEP");
+respostas.add("UE");
+respostas.add("ONU");
+aux = new Pergunta("Portugal não pertence à:",respostas,respostas.get(1));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Embraiagem");
+respostas.add("Radiador");
+respostas.add("Alternador");
+respostas.add("Depósito");
+aux = new Pergunta("Que parte da mecânica de um automóvel mantém a bateria carregada enquanto o motor carrega?",respostas,respostas.get(2));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Asgard");
+respostas.add("Radiador");
+respostas.add("Bitfrost");
+respostas.add("Valhalla");
+aux = new Pergunta("Na mitologia nórdica, que nome tem o martelo usado pelo Thor, Deus do Trovão?",respostas,respostas.get(2));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Portugal");
+respostas.add("Brasil");
+respostas.add("Alemanha");
+respostas.add("Espanha");
+aux = new Pergunta("Onde nasceu a rainha D. Maria II?",respostas,respostas.get(2));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Portugal");
+respostas.add("Brasil");
+respostas.add("Alemanha");
+respostas.add("Espanha");
+aux = new Pergunta("Onde nasceu a rainha D. Maria II?",respostas,respostas.get(2));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Chade");
+respostas.add("Gabão");
+respostas.add("Quénia");
+respostas.add("Somália");
+aux = new Pergunta("Qual destes países Africanos não possui ligação a qualquer oceano?",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Tem entre 2 a 4 litros. ");
+respostas.add("Tem entre 4 a 6 litros. ");
+respostas.add("Tem 10 litros");
+respostas.add("Tem 7 litros");
+aux = new Pergunta("Normalmente, quantos litros de sangue uma pessoa tem?",respostas,respostas.get(1));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Platão");
+respostas.add("Galileu Galilei");
+respostas.add("Descartes");
+respostas.add("Sócrates");
+aux = new Pergunta("De quem é a famosa frase “Penso, logo existo”?",respostas,respostas.get(2));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Vaticano e Rússia");
+respostas.add("Nauru e China");
+respostas.add("Mónaco e Canadá");
+respostas.add("Malta e Estados Unidos");
+aux = new Pergunta("Quais o menor e o maior país do mundo?",respostas,respostas.get(1));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Legenda");
+respostas.add("História");
+respostas.add("Lenda");
+respostas.add("Legendário");
+aux = new Pergunta("O que a palavra legend significa em português?",respostas,respostas.get(2));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("8");
+respostas.add("10");
+respostas.add("9");
+respostas.add("7");
+aux = new Pergunta("Qual o número mínimo de jogadores numa partida de futebol?",respostas,respostas.get(3));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("12 minutos");
+respostas.add("12 horas");
+respostas.add("8 minutos");
+respostas.add("8 segundos");
+aux = new Pergunta("Quanto tempo a luz do Sol demora para chegar à Terra?",respostas,respostas.get(2));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Neolítico");
+respostas.add("Idade Média");
+respostas.add("Idade dos Metais");
+respostas.add("Paleolítico");
+aux = new Pergunta("Em que período da pré-história o fogo foi descoberto?",respostas,respostas.get(3));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Índia");
+respostas.add("Filipinas");
+respostas.add("Moçambique");
+respostas.add("Macau");
+aux = new Pergunta("Em qual local da Ásia o português é língua oficial?",respostas,respostas.get(3));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Eu caibo");
+respostas.add("Ele cabe");
+respostas.add("Que eu caiba");
+respostas.add("Eu cabo");
+aux = new Pergunta("Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Rússia");
+respostas.add("Filipinas");
+respostas.add("Istambul");
+respostas.add("Groenlândia");
+aux = new Pergunta("Qual destes países é transcontinental?",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Filosofia");
+respostas.add("Matemática");
+respostas.add("Astronomia");
+respostas.add("Mitologia");
+aux = new Pergunta("Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",respostas,respostas.get(3));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Terra, Vênus, Saturno, Úrano, Júpiter, Marte, Neptuno, Mercúrio");
+respostas.add("Júpiter, Marte, Mercúrio, Neptuno, Plutão, Saturno, Terra, Úrano, Vênus");
+respostas.add("Vênus, Saturno, Úrano, Júpiter, Marte, Neptuno, Mercúrio");
+respostas.add("Júpiter, Marte, Mercúrio, Neptuno, Plutão, Saturno, Sol, Terra, Úrano, Vênus");
+aux = new Pergunta("Quais os planetas do sistema solar?",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Christine Lagard");
+respostas.add("Angela Merkel");
+respostas.add("Margaret Thatcher");
+respostas.add("Hillary Clinton");
+aux = new Pergunta("Que líder mundial ficou conhecida como “Dama de Ferro”?",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Gaspar, Nicolau e Natanael");
+respostas.add("Belchior, Gaspar e Baltazar");
+respostas.add("Belchior, Gaspar e Nataniel");
+respostas.add("Gabriel, Benjamim e Melchior");
+aux = new Pergunta("Quais os nomes dos três Reis Magos?",respostas,respostas.get(1));
+perguntas.add(aux);
+respostas.clear();
+
+
+respostas.add("Alberto Caeiro, Ricardo Reis e Álvaro de Campos");
+respostas.add("Ariano Suassuna, Raul Bopp e Quincas Borba");
+respostas.add("Bento Teixeira, Ricardo Reis e Haroldo de Campos");
+respostas.add("Alberto Caeiro, Ricardo Leite e Augusto de Campos");
+aux = new Pergunta("Quais os principais heterônimos de Fernando Pessoa?",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+respostas.add("Muito Barulho por Nada (2012)");
+respostas.add("Capitães de Areia (2011)");
+respostas.add("A Dama das Camélias (1936)");
+respostas.add("A Revolução dos Bichos (1954)");
+aux = new Pergunta("Qual desses filmes foi baseado na obra de Shakespeare?",respostas,respostas.get(0));
+perguntas.add(aux);
+respostas.clear();
+
+
+
